@@ -1,0 +1,46 @@
+[
+    {
+        "hasPrivileges": true,
+        "isBlocked": false,
+        "name": "Alice",
+        "password": "pass123",
+        "possession": {
+            "LOCATION": 0,
+            "TYPE": 0,
+            "area": 66.0
+        }
+    },
+    {
+        "hasPrivileges": false,
+        "isBlocked": false,
+        "name": "Bob",
+        "password": "qwerty",
+        "possession": {
+            "LOCATION": 2,
+            "TYPE": 1,
+            "area": 150.0
+        }
+    },
+    {
+        "hasPrivileges": true,
+        "isBlocked": true,
+        "name": "Charlie",
+        "password": "password",
+        "possession": {
+            "LOCATION": 1,
+            "TYPE": 2,
+            "area": 25.0
+        }
+    },
+    {
+        "hasPrivileges": false,
+        "isBlocked": true,
+        "name": "David",
+        "password": "123456",
+        "possession": {
+            "LOCATION": 3,
+            "TYPE": 3,
+            "area": 500.0
+        }
+    }
+]
